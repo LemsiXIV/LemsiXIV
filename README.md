@@ -25,8 +25,6 @@ assigned tasks.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LemsiXIV&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=LemsiXIV&label=Profile%20Views&color=1&icon=5&pretty=true" />
-</a>
+
 </div>
 
