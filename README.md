@@ -1,7 +1,7 @@
 <div align="center">
   <img height="400" width="700" src="ac5b1609d86356d86f028b307f839fb7.gif"/>
 </div>
-
+<div align="center">
 # 💫 About Me:
 💬 Hi! I'm Med Haithem Lemsi , Engineering student at ESPRIT <br>
 
@@ -22,4 +22,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LemsiXIV&icon=5&color=0)](https://visitcount.itsvg.in)
-
+</div>
