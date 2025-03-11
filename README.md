@@ -3,7 +3,7 @@
 </div>
 <div align="center">
 # 💫 About Me:
-💬 Hi! I'm Med Haithem Lemsi , Engineering student at ESPRIT <br>
+💬 Hi! I'm Med Haithem Lemsi , Cloud Engineering student at ESPRIT <br>
 I am a dynamic and motivated individual ready to deliver quality work and fully commit to
 assigned tasks.
 
